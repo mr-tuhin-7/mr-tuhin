@@ -1,4 +1,4 @@
-![I am mr-tuhin-7](https://github.com/harun181/harun181/blob/main/code.png)
+![I am mr-tuhin-7](https://github.com/mr-tuhin/mr-tuhin/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'M MR TUHIN </h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=mr-tuhin&color=red)
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
@@ -16,7 +16,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Golang, Java, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+- 👨‍💻 All of my projects are available at [https://github.com/mr-tuhin](https://github.com/mr-tuhin-7/mr-tuhin)
 
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
@@ -60,13 +60,13 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/Java-Project)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/weblitical)
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=mr-tuhin&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mr-tuhin/Java-Project)
+[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=mr-tuhin&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mr-tuhin/100_plus_C_Problems)
+[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=mr-tuhin&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mr-tuhin/front_end_projects)
+[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=mr-tuhin&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mr-tuhin/weblitical)
 
 <p align="left">
-  <a href="https://github.com/harun181?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/mr-tuhin?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -76,8 +76,8 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 ## Github Stats -
 
 <p align="center">
-  <a href="https://github.com/harun181">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harun181&theme=radical" alt="Harun's GitHub Contribution"/>
+  <a href="https://github.com/mr-tuhin-7/mr-tuhin">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-tuhin&theme=radical" alt="mr-tuhin's GitHub Contribution"/>
   </a>
 </p>
 
@@ -87,7 +87,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=harun181&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![mr-tuhin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-tuhin&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
