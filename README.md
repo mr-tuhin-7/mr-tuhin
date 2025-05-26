@@ -1,4 +1,4 @@
-![I am mr-tuhin-7](https://github.com/mr-tuhin/mr-tuhin/blob/main/code.png)
+![I am mr-tuhin-7](https://github.com/harun181/harun181/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'M MR TUHIN </h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
