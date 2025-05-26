@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**mr-tuhin-7/mr-tuhin-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mr-tuhin/mr-tuhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
